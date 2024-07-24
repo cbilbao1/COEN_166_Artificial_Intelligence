@@ -31,15 +31,15 @@
      - maxValue_fun
      - minValue_fun
 5. Lab 5
-  - Implement a controller that calculates the next action to take using their Q Values
-  - The file should be complete with functions:
-    - getQValue
-    - computeValueFromQValues
-    - computeActionFromQValues
-    - getAction
-    - update
-    - getPolicy
-    - getValue
+    - Implement a controller that calculates the next action to take using their Q Values
+    - The file should be complete with functions:
+        - getQValue
+        - computeValueFromQValues
+        - computeActionFromQValues
+        - getAction
+        - update
+        - getPolicy
+        - getValue
 
 
 # TODO:
